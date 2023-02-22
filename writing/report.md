@@ -1,6 +1,6 @@
 # Report by Add Your Names Here
 
-### Project Selection [DUE: February 24th]
+## Project Selection [DUE: February 24th]
 
 TODO: 
 Identify your application. Describe what type of object detection/identification/etc. you plan to pursue and address its feasibility (for example, is there labeled data, appropriate supervised learning algorithms to be applied).
