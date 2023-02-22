@@ -22,7 +22,7 @@
 
 - [Mid-Project Check-In](#mid-project-check-in)
 
-- [Project Demonstration](#project-demonstration)
+- [Project presentation](#project-presentation)
 
 - [Required Deliverables](#required-deliverables)
 
@@ -62,11 +62,14 @@ In this two-week lab students are invited to implement a learning agent using an
 ### Baseline Requirements
 
 - Your project must shine a light on or solves a specific issue related to fairness, bias, privacy, or similar.
-- Your project should be implemented in Python.
+- Your project must be implemented in Python. 
+- Your implementation should perform some pre-processing on images or videos and then apply a learning algorithm to perform a specific task.
 - You must use OpenCV and `scikit-learn` library.
-- While your project should be based on an existing project, it should NOT be just a copy of an existing project (for example, a class program or an online tutorial).
+- While your project can be and should be based on an existing project, it should NOT be just a copy of an existing project (for example, a class program or an online tutorial).
 - You must include references to all resources used in your report as links to online resources or by specifying activity number or reading resource if using class resources.
-- You must include and specify all the steps needed to successfully run your program(s). This include installation instructions or docker set up, if you prefer to run your tool outside of Colab.
+- You must include and specify all the steps needed to successfully run your program(s) in your report. This include installation instructions if you prefer to run your tool outside of Colab.
+- You must produce a visual product that demonstrates the results of your application (video, live demo, etc.).
+- You must engage in mid-project check-in and participate in the presentation.
 
 ### Steps to Project Completion
 
@@ -93,7 +96,7 @@ During the lab session on March 1st, the instructor and the TL will invite each 
 
 ## Project Presentation
 
-At the beginning of the lab session on Wednesday, March 1st, each team will be given an opportunity to present their project. Teams can use slides if desired to aid in presentation. Each presentation should provide:
+At the beginning of the lab session on Wednesday, March 1st, each team will be given an opportunity to present their project. The presentation should have an accampanying visual product to demonstrate your project (be creative!). Teams can use slides if desired to aid in presentation. Each presentation should provide:
 
 - an overview of the chosen application,
 - civic problem interrogated by the chosen application,
